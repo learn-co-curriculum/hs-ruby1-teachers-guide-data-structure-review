@@ -37,4 +37,4 @@ school_subjects = [
   + Now how do I access `"biology"`?
 
 ### More Practice
-+ [Mini-lab: Ruby Menu Challenge](https://github.com/flatiron-school-curriculum/hs-ruby-menu-challenge)
++ [Mini-lab: Ruby Menu Challenge](https://github.com/learn-co-curriculum/hs-ruby-menu-challenge)
