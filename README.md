@@ -38,3 +38,5 @@ school_subjects = [
 
 ### More Practice
 + [Mini-lab: Ruby Menu Challenge](https://github.com/learn-co-curriculum/hs-ruby-menu-challenge)
+
+<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-data-structure-review' data-visibility='hidden'>View this lesson on Learn.co</a>
