@@ -39,4 +39,4 @@ school_subjects = [
 ### More Practice
 + [Mini-lab: Ruby Menu Challenge](https://github.com/learn-co-curriculum/hs-ruby-menu-challenge)
 
-<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-data-structure-review' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby1-teachers-guide-data-structure-review' title='Unit 4: Data Structure Review'>Unit 4: Data Structure Review</a> on Learn.co and start learning to code for free.</p>
